@@ -1,0 +1,58 @@
+
+
+@font-face {
+    font-family: 'm_neuebold';
+    src: url('bla-bold-webfont.woff2') format('woff2'),
+         url('bla-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'blabook';
+    src: url('bla-book-webfont.woff2') format('woff2'),
+         url('bla-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'blalight';
+    src: url('bla-light-webfont.woff2') format('woff2'),
+         url('bla-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'blamedium';
+    src: url('bla-medium-webfont.woff2') format('woff2'),
+         url('bla-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'blamono';
+    src: url('bla-mono-webfont.woff2') format('woff2'),
+         url('bla-mono-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
